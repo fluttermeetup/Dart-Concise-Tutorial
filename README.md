@@ -7,4 +7,5 @@ This is the repository to learn the essential knowledge of Dart.
 - 03 - number
 - 04 - String
 - 05 - datetime
-
+- 06 - List
+  
