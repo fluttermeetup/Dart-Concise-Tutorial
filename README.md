@@ -8,4 +8,4 @@ This is the repository to learn the essential knowledge of Dart.
 - 04 - String
 - 05 - datetime
 - 06 - List
-  
+- 07 - Map  
