@@ -12,4 +12,5 @@ This is the repository to learn the essential knowledge of Dart.
 - 08 - Set
 - 09 - Runes
 - 10 - Symbol
+- 11 - enum
 
