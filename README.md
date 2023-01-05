@@ -14,4 +14,5 @@ This is the repository to learn the essential knowledge of Dart.
 - 10 - Symbol
 - 11 - enum
 - 12 - Function
+- 13 - continue in loop and switch...case
 
