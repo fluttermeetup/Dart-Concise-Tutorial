@@ -17,4 +17,5 @@ This is the repository to learn the essential knowledge of Dart.
 - 13 - continue in loop and switch...case
 - 14 - class
 - 15 - get/set
+- 16 - Abstract class
 
