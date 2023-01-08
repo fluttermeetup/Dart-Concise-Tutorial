@@ -19,5 +19,6 @@ This is the repository to learn the essential knowledge of Dart.
 - 15 - get/set
 - 16 - Abstract class
 - 17 - mixin
+- 18 - factory
   
 
