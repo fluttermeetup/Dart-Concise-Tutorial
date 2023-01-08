@@ -20,5 +20,6 @@ This is the repository to learn the essential knowledge of Dart.
 - 16 - Abstract class
 - 17 - mixin
 - 18 - factory
+- 19 - Generic
   
 
