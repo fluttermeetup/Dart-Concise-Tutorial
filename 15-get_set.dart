@@ -1,5 +1,5 @@
 class Person01 {
-  late String _name;
+  String _name;
 
   set pName(String value) {
     _name = value;
@@ -11,7 +11,7 @@ class Person01 {
 }
 
 class Person02 {
-  late String _name;
+  String _name;
 
   set pName(String name) => _name = name;
   String get pName => "person name is ${_name}";

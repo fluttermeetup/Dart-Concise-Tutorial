@@ -1,8 +1,8 @@
 class Point01 {}
 
 class Point02 {
-  late num x;
-  late num y;
+  num x;
+  num y;
   Point02(num x, num y) {
     this.x = x;
     this.y = y;
@@ -10,22 +10,22 @@ class Point02 {
 }
 
 class Point03 {
-  late num x;
-  late num y;
+  num x;
+  num y;
   Point03(this.x, this.y);
 }
 
 class Point04 {
-  late int x;
-  late int y;
+  int x;
+  int y;
   var newValue;
 
   Point04(this.x, this.y) : newValue = {x: x, x: y};
 }
 
 class Point05 {
-  late num x;
-  late num y;
+  num x;
+  num y;
 
   Point05.fromJson(Map json) {
     x = json["x"];
@@ -34,8 +34,8 @@ class Point05 {
 }
 
 class Point06 {
-  late num x;
-  late num y;
+  num x;
+  num y;
 
   Point06(this.x, this.y);
   Point06.fromJson(Map json) : this(json["x"], json["y"]);
