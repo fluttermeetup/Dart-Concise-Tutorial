@@ -23,5 +23,6 @@ This is the repository to learn the essential knowledge of Dart.
 - 19 - Generic
 - 20 - Generator
 - 21 - callable class
+- 22 - asychronous call
   
 
